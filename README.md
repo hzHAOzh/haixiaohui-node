@@ -1,11 +1,5 @@
-# 高校教务系统 API(非官方)
-University Academic Affairs System API(Google说的)， 简称UAAS-API
+# “海小慧”课表小程序后端API
 
-使用Koa.js构建的部分高校教务系统 API
-
-通过跨站请求伪造(CSRF)，伪造正常请求获取数据，**本项目仅供学习，请勿使用于商业项目。**
-
-> 请注意，如果你的学校没有在支持名单中，可以使用测试号进行测试！
 > **测试号为 stuId: test，password: 123456**
 
 ## 支持的接口列表
